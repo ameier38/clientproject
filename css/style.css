@@ -1,3 +1,9 @@
 h1 {
-  color: fuchsia;
+  color: blueviolet;
+  padding:10px
+  justify-content:center;
+  
+}
+body{
+background-color: black;
 }
